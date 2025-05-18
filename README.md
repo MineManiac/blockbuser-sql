@@ -1,4 +1,6 @@
-# Blockbuster - MEGADADOS Projeto 1
+# Blockbuster
+
+**Authors:** Renato Laffranchi Falcão (@renatex333) & Matheus Ribeiro Barros (@MineManiac)
 
 ## Desenvolvimento do projeto
 
